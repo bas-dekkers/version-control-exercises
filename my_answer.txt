@@ -1,1 +1,2 @@
 If John have 3 apples and 6 peanuts, how big is the moon?
+Now I have uploaded the file from my computer to the GitHub but the question if pulling it will also work, that is why I add this line. 
