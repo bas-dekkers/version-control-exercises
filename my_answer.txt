@@ -1,3 +1,7 @@
 If John have 3 apples and 6 peanuts, how big is the moon?
+<<<<<<< HEAD
 After I forgot to give the comment the right name based on the exercise. 
 Now I am trying to type in my Windows Notebook to see how the pulling works. 
+=======
+Now I have uploaded the file from my computer to the GitHub but the question if pulling it will also work, that is why I add this line. 
+>>>>>>> 8abd0f4ff8f77a7bbcd4ea450da0440c8a18e2d5
